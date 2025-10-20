@@ -2,6 +2,13 @@ Nombre: Angel Luis
 Apellidos: Santana Reyes
 Email: luisdoc@outlook.es
 Nick-github: luis2doc
-Edad: 
-Ciudad: 
+Edad: 21
+Ciudad: Las Palmas de Gran Canaria
 
+Nombre: José Omar 
+Apellidos: Castellano Medina
+Email: joseomarcastellanomedina2003@gmail.com
+Nick-github: joseomarcastellanomedina2003
+Edad: 21
+Ciudad: Las Palmas de Gran Canaria
+Praim historico, abajo los culés Aldadín y el rey de los ladrones better film ever
