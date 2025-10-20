@@ -5,3 +5,10 @@ Nick-github: luis2doc
 Edad: 
 Ciudad: 
 
+Nombre: Daniel
+Apellidos:  Vega Lago
+Email: danielvegalago2@gmail.com
+Nick-github: opeoirvegas
+Edad:23
+Ciudad: Las Palmas de Gran Canaria
+Hobbies: comer y dormir ☺
