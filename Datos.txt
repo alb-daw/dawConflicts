@@ -5,3 +5,10 @@ Nick-github: luis2doc
 Edad: 
 Ciudad: 
 
+Nombre: Sara Covadonga
+Apellidos: Valdes Gil
+Email: saracovadongavaldesgil@gmail.com
+Nick-github: AckermanCV
+Edad: 19
+Ciudad: Telde
+Hobbies: Dibujar, jugar jueguitos, escuchar musica.
