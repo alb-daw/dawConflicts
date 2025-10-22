@@ -2,7 +2,7 @@ Nombre: Angel Luis
 Apellidos: Santana Reyes
 Email: luisdoc@outlook.es
 Nick-github: luis2doc
-Edad: 23
+Edad: 21
 Ciudad: Las Palmas de Gran Canaria
 Hobbies: futbol, ver series policiacas, friends, big bang theory...: Asesinatos de Midsomer
 
