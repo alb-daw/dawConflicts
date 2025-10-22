@@ -25,3 +25,14 @@ Nick-github: JavierReus
 Edad: 22
 Ciudad: Las Palmas de Gran Canaria
 Hobbies: muay thai.....
+
+Nombre: Daniel Alejandro.
+Apellidos: Moreno Mujica.
+Email: elpibitoprogramador@gmail.com.
+Nick-github: LkYharlan.
+Edad: 32.
+Ciudad: Las Palmas de Gran Canaria.
+Hobbies: Videojuegos y streaming.
+
+
+
