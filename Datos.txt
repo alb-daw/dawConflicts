@@ -2,6 +2,14 @@ Nombre: Angel Luis ??
 Apellidos: Santana Reyes
 Email: luisdoc@outlook.es
 Nick-github: luis2doc
+Edad: 
+Ciudad: 
+
+Nombre: Jackeline 
+Apellidos: Talavera González
+Email: jck68@gmail.com
+Nick-github: Jackeline20
+Edad: 19
 Edad: 21
 Ciudad: Las Palmas de Gran Canaria
 Hobbies: futbol, ver series policiacas, friends, big bang theory...: Asesinatos de Midsomer
@@ -22,6 +30,7 @@ Email: Javinho@outlook.es
 Nick-github: JavierReus
 Edad: 22
 Ciudad: Las Palmas de Gran Canaria
+Hobbies:leer
 Hobbies: muay thai.....
 
 Nombre: José Omar
