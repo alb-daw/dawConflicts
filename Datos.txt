@@ -14,7 +14,7 @@ Edad: 21
 Ciudad: Las Palmas de Gran Canaria
 Hobbies: futbol, ver series policiacas, friends, big bang theory...: Asesinatos de Midsomer
 
- 
+
 Nombre: David
 Apellidos: Gaviria
 Email: davidgaviria@outlook.es
