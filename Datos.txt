@@ -1,24 +1,36 @@
-Nombre: Angel Luis 
+Nombre: Angel Luis ??
 Apellidos: Santana Reyes
 Email: luisdoc@outlook.es
 Nick-github: luis2doc
-Edad: 
-Ciudad: 
+Edad: 23
+Ciudad: Las Palmas de Gran Canaria
+Hobbies: futbol, ver series policiacas, friends, big bang theory...: Asesinatos de Midsomer
 
-Nombre: Sara Covadonga
-Apellidos: Valdes Gil
-Email: saracovadongavaldesgil@gmail.com
-Nick-github: AckermanCV
-Edad: 19
-Ciudad: Telde
-Hobbies: Dibujar, jugar jueguitos, escuchar musica.
-=======
-
+ 
 Nombre: David
 Apellidos: Gaviria
 Email: davidgaviria@outlook.es
 Nick-github: 
 Edad: 25
 Ciudad: Argelia valle del cauca
+<<<<<<< HEAD
+Hobbies: escuchar music
+
+
+Nombre: Javier
+Apellidos: Rivero
+Email: Javinho@outlook.es
+Nick-github: JavierReus
+Edad: 22
+Ciudad: Las Palmas de Gran Canaria
+Hobbies: muay thai.....
+=======
 Hobbies: escuchar musica tecno, 
->>>>>>> 1b4b3aff1328619bf53ce9460979c4fac4f1059a
+
+Nombre: Sara Covadonga
+Apellidos: Valdes Gil
+Email: saracovadongavaldesgil@gmail.com
+Nick-github: AckermanCV
+Edad: 19
+Ciudad: Telde 
+Hobbies: Dibujar, juegar jueguitos, escuchar musica...
