@@ -81,9 +81,9 @@ Ciudad: Argelia
 Hobbies: escuchar musica tecno, 
 
 Nombre: alejandro1939-1945
-Apellidos: Peñate
+Apellidos: Peñate 
 Email: alejandro@outlook.es
 Nick-github: 
-Edad: 18
+Edad: 181213
 Ciudad: Argelia
 Hobbies: escuchar musica tecno, 
