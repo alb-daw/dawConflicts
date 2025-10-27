@@ -70,11 +70,11 @@ Ciudad: Telde
 Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
-Nombre: alejandro1
+Nombre: alejandro
 Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
 Edad: 25
-Ciudad: Argelia valle del cauca
+Ciudad: Las Palmas de Gran Canaria
 Hobbies: escuchar musica tecno, 
 
