@@ -73,14 +73,9 @@ Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
 Nombre: alejandro
-Nombre: alejandro1
 Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
-Edad: 25
-<<<<<<< HEAD
-Ciudad: Las Palmas de 
-=======
+Edad: 18
 Ciudad: Argelia
->>>>>>> main
 Hobbies: escuchar musica tecno, 
