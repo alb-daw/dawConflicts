@@ -72,7 +72,9 @@ Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
 
-Nombre: alejandro345
+Nombre: alejandro
+Apellidos: Peñate
+Nombre: alejandro123
 Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
