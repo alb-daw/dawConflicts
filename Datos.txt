@@ -72,7 +72,7 @@ Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
 
-Nombre: alejandro
+Nombre: alejandro123
 Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
@@ -80,10 +80,3 @@ Edad: 18
 Ciudad: Argelia
 Hobbies: escuchar musica tecno, 
 
-Nombre: alejandro1939-1945
-Apellidos: Peñate 
-Email: alejandro@outlook.es
-Nick-github: 
-Edad: 181213
-Ciudad: Argelia
-Hobbies: escuchar musica tecno, 
