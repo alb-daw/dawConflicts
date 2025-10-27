@@ -72,3 +72,10 @@ Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
 
+Nombre: alejandro
+Apellidos: Peñate
+Email: alejandro@outlook.es
+Nick-github: 
+Edad: 25
+Ciudad: Las Palmas de 
+Hobbies: escuchar musica tecno, 
