@@ -59,6 +59,8 @@ Hobbies: escuchar musica tecno,
 
 
 
+
+
 Nombre: Sara Covadonga
 Apellidos: Valdes Gil
 Email: saracovadongavaldesgil@gmail.com
@@ -68,7 +70,7 @@ Ciudad: Telde
 Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
-Nombre: alejandro
+Nombre: alejandro1
 Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
