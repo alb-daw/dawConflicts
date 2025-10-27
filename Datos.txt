@@ -58,22 +58,6 @@ Hobbies: escuchar musica tecno,
 
 
 
-Nombre: alejandro
-Apellidos: Peñate
-Email: alejandro@outlook.es
-Nick-github: 
-Edad: 25
-Ciudad: Argelia valle del cauca
-Hobbies: escuchar musica tecno, 
-
-Nombre: alejandr2
-Apellidos: Peñate
-Email: alejandro@outlook.es
-Nick-github: 
-Edad: 25
-Ciudad: Argelia valle del cauca
-Hobbies: escuchar musica tecno, 
-
 
 Nombre: Sara Covadonga
 Apellidos: Valdes Gil
@@ -82,3 +66,13 @@ Nick-github: AckermanCV
 Edad: 19
 Ciudad: Telde 
 Hobbies: Dibujar, juegar jueguitos, escuchar musica...
+
+
+Nombre: alejandro
+Apellidos: Peñate
+Email: alejandro@outlook.es
+Nick-github: 
+Edad: 25
+Ciudad: Argelia valle del cauca
+Hobbies: escuchar musica tecno, 
+
