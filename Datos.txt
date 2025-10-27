@@ -73,6 +73,6 @@ Apellidos: Peñate
 Email: alejandro@outlook.es
 Nick-github: 
 Edad: 25
-Ciudad: Argelia valle del cauca
+Ciudad: Las palmas de Gran Canaria
 Hobbies: escuchar musica tecno, 
 
