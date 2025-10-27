@@ -73,7 +73,7 @@ Hobbies: Dibujar, juegar jueguitos, escuchar musica...
 
 
 Nombre: alejandro123
-Apellidos: Peñate
+Apellidos: Peñategonzales
 Email: alejandro@outlook.es
 Nick-github: 
 Edad: 18
